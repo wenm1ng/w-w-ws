@@ -1,0 +1,14 @@
+# ide
+/.idea/
+
+# composer
+composer.lock
+
+# easySwoole
+/Log/
+/Temp/
+/Config.php
+/App/ConfigDev/
+/App/Config/
+/dev.php
+easyswoole.install
